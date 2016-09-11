@@ -1,0 +1,14 @@
+{
+  "name": "wir",
+  "version": "1.0.0",
+  "description": "\"A management platform for WiR\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
